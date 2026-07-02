@@ -1,0 +1,10 @@
+includes/db.php
+install.lock
+credentials.json
+token.json
+IMPORTANT/*.json
+google-drive-test.php
+upload/*
+!upload/.gitkeep
+*.log
+db_backup_before_release.sql
