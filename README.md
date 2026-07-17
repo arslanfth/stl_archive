@@ -1,13 +1,92 @@
-# 3D STL Arşiv / Model Galeri Uygulaması
+# 3D Model Arşivi
 
-Bu proje, STL ve benzeri 3D model dosyalarını arşivlemek, kategorilere ayırmak, galeri şeklinde listelemek ve Google Drive ile senkronize etmek için hazırlanmış bir web uygulamasıdır.
+### Free & Open Source STL Archive Manager
 
-Öne çıkan özellikler:
-- Çoklu görsel desteği
-- Kategori yönetimi ve sıralama
-- Model detay modalı
-- Google Drive senkronizasyonu
-- Google Drive depolama bilgisi gösterimi
+A modern web application for organizing, browsing and managing STL and other 3D model files with optional Google Drive synchronization.
+
+Perfect for makers who want a clean, searchable and visual library for their growing STL collection.
+
+![Home](screenshots/home.png)
+
+---
+
+## Why?
+
+As my personal STL collection grew, finding the right model in Google Drive became increasingly difficult.
+
+I wanted a fast, visual and easy-to-use archive where I could browse models with preview images, organize them into categories and keep everything synchronized with Google Drive.
+
+This project was created to solve that problem and is released completely free and open source for anyone who might find it useful.
+
+---
+
+## Features
+
+- 🖼️ Visual gallery with image previews
+- 📁 Category management
+- 🔎 Instant search
+- ☁️ Optional Google Drive synchronization
+- 🖼️ Multiple images for each model
+- ⭐ Cover image selection
+- ↕️ Drag & Drop image ordering
+- 📊 Storage usage information
+- 🌙 Modern dark interface
+- 💾 Self-hosted
+- 🆓 Free & Open Source
+
+---
+
+## Screenshots
+
+### Home
+
+Browse your STL collection with categories, search, statistics and storage information.
+
+![Home](screenshots/home.png)
+
+---
+
+### Model Details
+
+View model information, preview images and download files.
+
+![Model Details](screenshots/details.png)
+
+---
+
+### Edit Model
+
+Manage multiple images, choose a cover image and edit model details.
+
+![Edit Model](screenshots/edit.png)
+
+---
+
+### Google Drive Integration
+
+Configure Google Drive OAuth and synchronize your archive directly from Drive.
+
+![Google Drive Integration](screenshots/google-drive-settings.png)
+
+---
+
+### Category Management
+
+Create, edit and organize model categories.
+
+![Category Management](screenshots/categories.png)
+
+---
+
+### Add New Model
+
+Add new models with multiple preview images and file information.
+
+![Add New Model](screenshots/new-record.png)
+
+---
+
+## Requirements
 
 ## Gereksinimler
 
