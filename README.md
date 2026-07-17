@@ -86,6 +86,24 @@ Add new models with multiple preview images and file information.
 
 ---
 
+## 🌐 Localization
+
+The application uses language files located in the `lang/` directory.
+
+All interface texts are stored in `lang/tr.php`, making it easy to translate the application into another language without modifying the source code.
+
+### Default language
+
+- 🇹🇷 Turkish (`lang/tr.php`)
+
+### Translating the application
+
+The current version supports a single language file.
+
+To use another language, simply translate the text values inside `lang/tr.php` and keep the file name unchanged.
+
+No source code modifications are required.
+
 ## Requirements
 
 - PHP 8.0 or newer
